@@ -4,8 +4,6 @@ library(zoo)
 library(ggplot2)
 
 ### Read the data
-data <- read.csv('\\Users\\Craig\\Desktop\\Job Search 2019
-			\\Universal Tennis\\data_challenge_raw_data.csv')
 data <- read.csv('<path to raw data>')
 
 ### Look for invalid/unusual set scores
